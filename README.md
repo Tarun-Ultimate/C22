@@ -1,2 +1,2 @@
-# C22
-This is about physics in coding
+# staticSquare
+A static square made using Matter.js physics engine
